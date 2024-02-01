@@ -11,7 +11,7 @@
 - Interactive space. Could be further improvised when the other resources adn 3D assets are running.
 
 ### pitch deck:
-- here.
+- [here](https://gamma.app/public/evolvify-deck-1-j46xujboejby778).
   
 
 ### project proposal:
