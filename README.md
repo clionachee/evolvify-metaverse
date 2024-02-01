@@ -6,5 +6,6 @@
 ### tech stack:
 - Unity 2022.2.1f1
 - Thirdweb sdk
+- Unity skybox asset
 
 proposal of project during cohort 2 of Road2Web3 of metaschool is [here](https://github.com/clionachee/Metaschool-Proposal-Evolvify).
