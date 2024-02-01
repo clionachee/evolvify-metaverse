@@ -3,8 +3,8 @@
 
  ![Creative_Color_Brushstroke_Lettering_Logo-transparent](https://github.com/clionachee/evolvify-metaverse/assets/94758696/5e13347f-a4fa-4899-a69f-c42ecef47856)
 
-Tech stack:
-Unity 2022.2.1f1
-Thirdweb sdk
+# Tech stack:
+- Unity 2022.2.1f1
+- Thirdweb sdk
 
 proposal of project during cohort 2 of Road2Web3 of metaschool is [here](https://github.com/clionachee/Metaschool-Proposal-Evolvify).
