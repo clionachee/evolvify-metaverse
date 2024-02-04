@@ -67,27 +67,14 @@ Cast (Far.quest) [https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47
 Warpcast (Farcaster) [https://warpcast.com/chee/0x831c6ba9](https://warpcast.com/chee/0x831c6ba9)
 
 ### Deck: 
-[https://gamma.app/public/evolvify-deck-1-j46xujboejby778](https://gamma.app/public/evolvify-deck-1-j46xujboejby778)
+ [here](https://gamma.app/public/evolvify-deck-1-j46xujboejby778).
 
 
-___________________________________________________________________________________________________________________________
-
-
-### technical demo:
+### Technical Demonstration:
 - Simulation of the interface. Able to connect wallets with the metaverse space.
 - Able to view the events, metaverse assets and also the resources to explore blockchain gaming and metaverse as beginners.
 - Interactive space. Could be further improvised when the other resources adn 3D assets are running.
 
-### pitch deck:
-- [here](https://gamma.app/public/evolvify-deck-1-j46xujboejby778).
-  
 
-### project proposal:
-- proposal of project during cohort 2 of Road2Web3 of metaschool is [here](https://github.com/clionachee/Metaschool-Proposal-Evolvify).
-
-### tech stack:
-- Unity 2022.2.1f1
-- Thirdweb sdk
-- Unity skybox asset
 
 
