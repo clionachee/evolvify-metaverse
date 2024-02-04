@@ -51,21 +51,21 @@ Evolvify Metaverse
 - :heart: XR Experiences: Engage with immersive XR experiences while understanding associated risks.
 
 ### Tech Stack: 
-Unity Hub 3.5.0, Unity Editor 2022.2.1f1 and thirdweb Unity SDK.
-JavaScript 80.8%, C# 18.6%, ShaderLab 0.5%, HLSL 0.1%, C (a bit), Objective-C++ (a bit)
-Skybox asset.
+- :heart:️ Tools: Unity Hub 3.5.0, Unity Editor 2022.2.1f1 and thirdweb Unity SDK.
+- :heart:️ Languages: JavaScript 80.8%, C# 18.6%, ShaderLab 0.5%, HLSL 0.1%, C (a bit), Objective-C++ (a bit)
+- :heart:️ Assets: Skybox asset.
 
 ### Team Names: 
 [Top Love Tech](https://toplove.tech/): 
 [Cliona Chee P. K.](https://clionachee.com/) (solo, would expand team soon)
 
 ### Paragraph (Web 3 Articles of the progress): 
-reply questions asked during code camps & workshops of metaschool r2w3 c2: [https://paragraph.xyz/@chee/metaschool1](https://paragraph.xyz/@chee/metaschool1?referrer=0xA45eFe8b10a534eA2bE12f555a92610508D27aC2)
-completing my project + lessons + explorations: [https://paragraph.xyz/@chee/evolvify-metaschool](https://paragraph.xyz/@chee/evolvify-metaschool?referrer=0xA45eFe8b10a534eA2bE12f555a92610508D27aC2)
+- :heart:️ reply questions asked during code camps & workshops of metaschool r2w3 c2: [https://paragraph.xyz/@chee/metaschool1](https://paragraph.xyz/@chee/metaschool1?referrer=0xA45eFe8b10a534eA2bE12f555a92610508D27aC2)
+- :heart:️ completing my project + lessons + explorations: [https://paragraph.xyz/@chee/evolvify-metaschool](https://paragraph.xyz/@chee/evolvify-metaschool?referrer=0xA45eFe8b10a534eA2bE12f555a92610508D27aC2)
 
 ### Web 3 social medias sharing 'bout it:
-Cast (Far.quest) [https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b](https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b)
-Warpcast (Farcaster) [https://warpcast.com/chee/0x831c6ba9](https://warpcast.com/chee/0x831c6ba9)
+- :heart:️ Cast (Far.quest) [https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b](https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b)
+- :heart:️ Warpcast (Farcaster) [https://warpcast.com/chee/0x831c6ba9](https://warpcast.com/chee/0x831c6ba9)
 
 ### Deck: 
  [here](https://gamma.app/public/evolvify-deck-1-j46xujboejby778).
