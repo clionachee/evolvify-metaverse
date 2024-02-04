@@ -10,11 +10,11 @@
 https://github.com/clionachee/evolvify-metaverse
 
 ### Logo: 
-![evolvify-white-bg-transparent](https://github.com/clionachee/evolvify-metaverse/assets/94758696/84fcb9dd-d5a6-4dc6-a20a-69cea1747e89)
-Brand kit of Evolvify Metaverse project: 
-https://brandfetch.com/share/nffkb2bgiqss75uuqj8ex5a8xx36muaw?library=default&collection=Evolvify%20Metaverse%20by%20Top%20Love%20Tech
-Brand kit of team: 
-https://brandfetch.com/toplove.tech
+![evolvify-black-bg-transparent](https://github.com/clionachee/evolvify-metaverse/assets/94758696/978ca6b7-cef7-4075-86bc-661a9885103a)
+
+[Brand kit of Evolvify Metaverse project ](https://brandfetch.com/share/nffkb2bgiqss75uuqj8ex5a8xx36muaw?library=default&collection=Evolvify%20Metaverse%20by%20Top%20Love%20Tech)
+
+[Brand kit of team](https://brandfetch.com/toplove.tech)
 
 ### Outline: 
 the metaverse where we explore resources when starting out to create blockchain games with humanistic missions.
@@ -23,13 +23,19 @@ the metaverse where we explore resources when starting out to create blockchain 
 Evolvify Metaverse
 
 ### Images: 
-https://brandfetch.com/share/nffkb2bgiqss75uuqj8ex5a8xx36muaw?library=default&collection=Evolvify%20Metaverse%20Pictures
+[https://brandfetch.com/share/nffkb2bgiqss75uuqj8ex5a8xx36muaw?library=default&collection=Evolvify%20Metaverse%20Pictures](https://brandfetch.com/share/nffkb2bgiqss75uuqj8ex5a8xx36muaw?library=default&collection=Evolvify%20Metaverse%20Pictures)
+![sky-evolvify-metaverse](https://github.com/clionachee/evolvify-metaverse/assets/94758696/8bf5a8d7-77ee-4bb6-bc14-55294150d580)
+![web3-interface](https://github.com/clionachee/evolvify-metaverse/assets/94758696/0e49db0d-02e3-4cea-8170-e69f065f1839)
+![viewing-connect-to-wallets](https://github.com/clionachee/evolvify-metaverse/assets/94758696/330a178f-a2a6-45df-8b95-8cfa09b1120f)
+![wallet](https://github.com/clionachee/evolvify-metaverse/assets/94758696/850a4353-1d6c-4a2f-9fad-fd31c0c60708)
+![request-sent-offer](https://github.com/clionachee/evolvify-metaverse/assets/94758696/5303d866-b7ac-40ab-a698-1bc499dc4b33)
+
 
 ### Video: 
-https://youtu.be/8IYKtXiE8Gc?si=UhFdFor5O40hTfZ9
+[https://youtu.be/8IYKtXiE8Gc?si=UhFdFor5O40hTfZ9](https://youtu.be/8IYKtXiE8Gc?si=UhFdFor5O40hTfZ9)
 
 ### Website: 
-https://evolvifymetaverse.toplove.tech/
+[https://evolvifymetaverse.toplove.tech](https://evolvifymetaverse.toplove.tech)
 
 ### Description: 
 
@@ -53,17 +59,19 @@ Top Love Tech:
 Cliona Chee P. K. (solo, would expand team soon)
 
 ### Paragraph (Web 3 Articles of the progress): 
-reply questions asked during code camps & workshops of metaschool r2w3 c2: https://paragraph.xyz/@chee/metaschool1
-completing my project + lessons + explorations: https://paragraph.xyz/@chee/evolvify-metaschool
+reply questions asked during code camps & workshops of metaschool r2w3 c2: [https://paragraph.xyz/@chee/metaschool1](https://paragraph.xyz/@chee/metaschool1?referrer=0xA45eFe8b10a534eA2bE12f555a92610508D27aC2)
+completing my project + lessons + explorations: [https://paragraph.xyz/@chee/evolvify-metaschool](https://paragraph.xyz/@chee/evolvify-metaschool?referrer=0xA45eFe8b10a534eA2bE12f555a92610508D27aC2)
 
 ### Web 3 social medias sharing 'bout it:
-Cast (Far.quest) https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b
-Warpcast (Farcaster) https://warpcast.com/chee/0x831c6ba9
+Cast (Far.quest) [https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b](https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b)
+Warpcast (Farcaster) [https://warpcast.com/chee/0x831c6ba9](https://warpcast.com/chee/0x831c6ba9)
 
 ### Deck: 
-https://gamma.app/public/evolvify-deck-1-j46xujboejby778
+[https://gamma.app/public/evolvify-deck-1-j46xujboejby778](https://gamma.app/public/evolvify-deck-1-j46xujboejby778)
+
 
 ___________________________________________________________________________________________________________________________
+
 
 ### technical demo:
 - Simulation of the interface. Able to connect wallets with the metaverse space.
