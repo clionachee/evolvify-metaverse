@@ -56,8 +56,8 @@ JavaScript 80.8%, C# 18.6%, ShaderLab 0.5%, HLSL 0.1%, C (a bit), Objective-C++ 
 Skybox asset.
 
 ### Team Names: 
-Top Love Tech: 
-Cliona Chee P. K. (solo, would expand team soon)
+[Top Love Tech](https://toplove.tech/): 
+[Cliona Chee P. K.](https://clionachee.com/) (solo, would expand team soon)
 
 ### Paragraph (Web 3 Articles of the progress): 
 reply questions asked during code camps & workshops of metaschool r2w3 c2: [https://paragraph.xyz/@chee/metaschool1](https://paragraph.xyz/@chee/metaschool1?referrer=0xA45eFe8b10a534eA2bE12f555a92610508D27aC2)
@@ -72,10 +72,10 @@ Warpcast (Farcaster) [https://warpcast.com/chee/0x831c6ba9](https://warpcast.com
 
 
 ### Technical Demonstration:
-- Simulation of the interface. Able to connect wallets with the metaverse space.
-- Able to view the events, metaverse assets and also the resources to explore blockchain gaming and metaverse as beginners.
-- Interactive space. Could be further improvised when the other resources adn 3D assets are running.
+- :heart:️ Simulation of the interface. Able to connect wallets with the metaverse space.
+- :heart:️ Able to view the events, metaverse assets and also the resources to explore blockchain gaming and metaverse as beginners.
+- :heart:️ Interactive space. Could be further improvised when the other resources adn 3D assets are running.
 
-
+ :heart:️ creating loving experiences  :heart:️ 
 
 
