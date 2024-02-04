@@ -41,14 +41,14 @@ Evolvify Metaverse
 ### Description: 
 
 ### 【What it does】
-:heart:️ Unbiased sharing, solutions & comparisons for blockchain game and XR project creation.
-:heart: Fosters a supportive community for creators of all levels with updated resources.
-:heart: Co-create 3D assets, interactive XR experiences and co-host events with humanistic missions and safety, particularly for younger users (51% metaverse users are currently <13).
+- :heart:️ Unbiased sharing, solutions & comparisons for blockchain game and XR project creation.
+- :heart: Fosters a supportive community for creators of all levels with updated resources.
+- :heart: Co-create 3D assets, interactive XR experiences and co-host events with humanistic missions and safety, particularly for younger users (51% metaverse users are currently <13).
 
 ### 【Key features】
-:heart: Blockchain Integration:  Integrates blockchain technology for secure exploration, metaverse asset NFT ownership and trustable community stewardship.
-:heart: User-Friendly Interaction: Prioritize effective communication and expression for all creators.
-:heart: XR Experiences: Engage with immersive XR experiences while understanding associated risks.
+- :heart: Blockchain Integration:  Integrates blockchain technology for secure exploration, metaverse asset NFT ownership and trustable community stewardship.
+- :heart: User-Friendly Interaction: Prioritize effective communication and expression for all creators.
+- :heart: XR Experiences: Engage with immersive XR experiences while understanding associated risks.
 
 ### Tech Stack: 
 Unity Hub 3.5.0, Unity Editor 2022.2.1f1 and thirdweb Unity SDK.
