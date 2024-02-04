@@ -23,7 +23,8 @@ the metaverse where we explore resources when starting out to create blockchain 
 Evolvify Metaverse
 
 ### Images: 
-[https://brandfetch.com/share/nffkb2bgiqss75uuqj8ex5a8xx36muaw?library=default&collection=Evolvify%20Metaverse%20Pictures](https://brandfetch.com/share/nffkb2bgiqss75uuqj8ex5a8xx36muaw?library=default&collection=Evolvify%20Metaverse%20Pictures)
+[the compiled images for downloading](https://brandfetch.com/share/nffkb2bgiqss75uuqj8ex5a8xx36muaw?library=default&collection=Evolvify%20Metaverse%20Pictures)
+
 ![sky-evolvify-metaverse](https://github.com/clionachee/evolvify-metaverse/assets/94758696/8bf5a8d7-77ee-4bb6-bc14-55294150d580)
 ![web3-interface](https://github.com/clionachee/evolvify-metaverse/assets/94758696/0e49db0d-02e3-4cea-8170-e69f065f1839)
 ![viewing-connect-to-wallets](https://github.com/clionachee/evolvify-metaverse/assets/94758696/330a178f-a2a6-45df-8b95-8cfa09b1120f)
