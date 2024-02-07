@@ -64,8 +64,9 @@ Evolvify Metaverse
 - :heart:️ completing my project + lessons + explorations: [https://paragraph.xyz/@chee/evolvify-metaschool](https://paragraph.xyz/@chee/evolvify-metaschool?referrer=0xA45eFe8b10a534eA2bE12f555a92610508D27aC2)
 
 ### Web 3 social medias sharing 'bout it:
-- :heart:️ Cast (Far.quest) [https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b](https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b)
-- :heart:️ Warpcast (Farcaster) [https://warpcast.com/chee/0x831c6ba9](https://warpcast.com/chee/0x831c6ba9)
+❤️️[Cast (Far.quest)](https://far.quest/clionachee.cast/0x0dfc70d73a75faf5948f610f47ade55f9d647f7b)
+❤️[️Cast (Far.quest) - creator](https://far.quest/clionachee.cast/0x9a3b715150d6d698cf86cb8aadb111a3e66f3d2e)
+❤️️[Warpcast (Farcaster)](https://warpcast.com/chee/0x831c6ba9)
 
 ### Deck: 
  [here](https://gamma.app/public/evolvify-deck-1-j46xujboejby778).
