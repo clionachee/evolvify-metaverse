@@ -4,7 +4,6 @@
 
 ![2024-02-02-05-53-28-2](https://github.com/clionachee/evolvify-metaverse/assets/94758696/2b1cf7e7-7074-4348-b7d0-f329b3538962)
 
-### metaschool road2web3 cohort 2
 
 ### Git Repo: 
 https://github.com/clionachee/evolvify-metaverse
