@@ -1,6 +1,8 @@
 # evolvify-metaverse
  evolvify &lt;3 --- the metaverse where we explore resources when starting out to create blockchain games with humanistic missions.
 
+ (p/s: I created this 'cause I can't find one yet.)
+
 
 ![2024-02-02-05-53-28-2](https://github.com/clionachee/evolvify-metaverse/assets/94758696/2b1cf7e7-7074-4348-b7d0-f329b3538962)
 
